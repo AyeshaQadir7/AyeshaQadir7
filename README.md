@@ -13,7 +13,7 @@ AI-Native Software Development https://ai-native.panaversity.org/
 
 ## Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,nextjs,tailwind,figma,python,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,nextjs,tailwind,figma,python,vercel, typexript" />
 </p>
 
 ---
