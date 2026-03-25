@@ -33,6 +33,9 @@ AI-Native Software Development https://ai-native.panaversity.org/
   <a href="https://ayeshadev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6035ba?logo=vercel&logoColor=white" />
   </a>
+    <a href="mailto:ayeshaabdulqadir07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/AyeshaQadir7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
   </a>
